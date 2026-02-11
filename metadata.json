@@ -1,0 +1,7 @@
+{
+  "name": "SqueezeIt - Ultra Fast Image Optimizer",
+  "description": "A high-performance image compression tool designed to quickly reduce large images to a target size of 800KB or less, with built-in AI analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
